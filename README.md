@@ -11,5 +11,10 @@ Três amigos de infância descobrem uma floresta mágica nos arredores de sua ci
 
 Ao longo da história, eles aprendem que, para derrotar o verdadeiro inimigo, precisam trabalhar juntos e valorizar a amizade, entendendo que cada um tem um papel único nessa aventura.
 
-Link da aba Issues https://github.com/mariaeduardafgomes/historia-em-quadrinhos/issues
-Link da aba Projects https://github.com/users/mariaeduardafgomes/projects/2
+Sprint Backlog Link da aba Issues https://github.com/mariaeduardafgomes/historia-em-quadrinhos/issues
+
+Local onde será gerenciado o Sprint Link da aba Projects://github.com/users/mariaeduardafgomes/projects/2
+
+Local onde será gerenciado o Sprint Link da aba Projects: https://github.com/users/mariaeduardafgomes/projects/3/views/1
+
+Sprint Backlog Link da aba Issues: https://github.com/mariaeduardafgomes/historia-em-quadrinhos/issues
