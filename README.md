@@ -18,3 +18,7 @@ Local onde será gerenciado o Sprint Link da aba Projects://github.com/users/mar
 Local onde será gerenciado o Sprint Link da aba Projects: https://github.com/users/mariaeduardafgomes/projects/3/views/1
 
 Sprint Backlog Link da aba Issues: https://github.com/mariaeduardafgomes/historia-em-quadrinhos/issues
+
+Local onde será gerenciado o Kanban (GitHub Projects): https://github.com/users/mariaeduardafgomes/projects/4/views/1
+
+Kanban com as Atividades da Primeira Sprint: https://github.com/mariaeduardafgomes/historia-em-quadrinhos/issues
